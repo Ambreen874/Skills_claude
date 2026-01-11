@@ -1,0 +1,167 @@
+# Roman Urdu to Urdu Conversion Reference
+
+## Extended Abbreviation Mapping
+
+### Pronouns and Personal References
+- main → میں
+- tu → تو
+- tum → تم
+- aap → آپ
+- woh → وہ
+- hum → ہم
+- humein → ہمیں
+- mujhe → مجھے
+- tujhe → تجھے
+- use → اسے
+- ise → اسے
+- humne → ہم نے
+- tumne → تم نے
+- usne → اُس نے
+- isne → اِس نے
+
+### Common Verbs
+- karna → کرنا
+- karunga → کروں گا
+- karogi → کرو گی
+- kiya → کیا
+- kia → کیا
+- kr → کر
+- kro → کرو
+- karein → کریں
+- karni → کرنی
+- karna → کرنا
+- jaana → جانا
+- jao → جاؤ
+- jaunga → جاؤں گا
+- aana → آنا
+- ao → آؤ
+- aaya → آیا
+- aye → آۓ
+- tha → تھا
+- thay → تھے
+- thi → تھی
+- the → تھے
+- hy / hai → ہے
+- hain → ہیں
+- hon → ہوں
+- ho → ہو
+- hue → ہوۓ
+- hua → ہوا
+- howa → ہوا
+- hogaya → ہو گیا
+- hoga → ہو گا
+- chahye → چاہیے
+- chahta → چاہتا
+- chahti → چاہتی
+- chahte → چاہتے
+- raha → رہا
+- rehna → رہنا
+- rahay → رہے
+- rehti → رہتی
+- rehte → رہتے
+
+### Common Words and Prepositions
+- aur → اور
+- ya → یا
+- lekin → لیکن
+- magar → مگر
+- par → پر
+- per → پر
+- se → سے
+- ke → کے
+- ka → کا
+- ki → کی
+- ko → کو
+- kahein → کہیں
+- kahin → کہیں
+- kahan → کہاں
+- kab → کب
+- kis → کس
+- konsa → کونسا
+- kon → کون
+- kya → کیا
+- kyu → کیوں
+- qism → قسم
+- tarah → طرح
+- baat → بات
+- baad → بعد
+- phir → پھر
+- ab → اب
+- kal → کل
+- aaj → آج
+- aj → آج
+- subah → صبح
+- sham → شام
+- raat → رات
+- din → دن
+- roz → روز
+- hafta → ہفتہ
+- mahina → ماہ
+- saal → سال
+
+### Adjectives and Descriptive Words
+- achha → اچھا
+- bura → برا
+- bara → بڑا
+- chota → چھوٹا
+- zyada → زیادہ
+- km → کم
+- sahi → صحیح
+- galat → غلط
+- asal → اصل
+- jhoot → جھوٹ
+- sach → سچ
+- pyaar → پیار
+- dosti → دوستی
+- ghar → گھر
+- baahar → باہر
+- andar → اندر
+- upar → اوپر
+- neechay → نیچے
+- agey → آگے
+- peechay → پیچھے
+- bht → بہت
+- bhut → بہت
+- thora → تھوڑا
+- sabse → سب سے
+- har → ہر
+- hara → ہارا
+- harri → ہاری
+- koi → کوئی
+- kuch → کچھ
+- sab → سب
+- jo → جو
+- jise → جسے
+- jiska → جس کا
+- jisme → جس میں
+
+### Negation and Interrogative
+- na → نہ
+- nahi → نہیں
+- nh → نہیں
+- kiya → کیا (for questions)
+- kya → کیا (for questions)
+- kyon → کیوں
+- kese → کیسے
+- kesay → کیسے
+- kitne → کتنے
+- kitni → کتنی
+
+### Common Phrases
+- Allah bachaye → اللہ بچائے
+- mashallah → مasha'Allah
+- inshallah → ان شاء اللہ
+- alhamdulillah → الحمد للہ
+- astaghfirullah → استغفر اللہ
+- subhanallah → سبحان اللہ
+- jazakAllah → جزاك اللہ
+- khair → خیر
+- acha → اچھا
+- theek → ٹھیک
+- bilkul → بالکل
+- zaroor → ضرور
+- zaruri → ضروری
+- shukriya → شکریہ
+- meherbani → مہربانی
+- sorry → ساری (in formal Urdu, use معاف کیجیے)
+- thanks → تھینکس (in formal Urdu, use شکریہ)
